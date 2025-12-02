@@ -1,0 +1,13 @@
+python manage.py makemigrations
+python manage.py migrate
+
+#This is admin page
+python manage.py createsuperuser
+name,pasword,email
+
+py manage.py runserver
+
+First docter add pannam
+
+
+
